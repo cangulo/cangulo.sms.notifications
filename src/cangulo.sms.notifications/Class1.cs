@@ -4,5 +4,6 @@
     {
         //Comment 1
         public int NumberTest { get; set; }
+        public string testString { get; set; }
     }
 }
